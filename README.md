@@ -4,6 +4,6 @@ Data is first scraped from https://understat.com/league/EPL and then the program
 
 A bar graph is then displayed to visualize the appropriate stats.
 
-![image](https://user-images.githubusercontent.com/97373046/211410158-93d1db91-90f4-4159-bcd3-b388cac5450c.png)
-![image](https://user-images.githubusercontent.com/97373046/211410369-f594a525-4cc7-4502-8f14-6e05e3cb4ec6.png)
-![image](https://user-images.githubusercontent.com/97373046/211410060-3e7da2f3-65cf-4da9-a2bf-508fb4bdbd9d.png)
+<img src="https://user-images.githubusercontent.com/97373046/211410158-93d1db91-90f4-4159-bcd3-b388cac5450c.png" width="100" height="300">
+<img src="https://user-images.githubusercontent.com/97373046/211410369-f594a525-4cc7-4502-8f14-6e05e3cb4ec6.png" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/97373046/211410060-3e7da2f3-65cf-4da9-a2bf-508fb4bdbd9d.png" width="400" height="350">
